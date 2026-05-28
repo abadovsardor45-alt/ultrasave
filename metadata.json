@@ -1,0 +1,6 @@
+{
+  "name": "UltraSave",
+  "description": "A high-performance premium media downloader with modern futuristic aesthetics, video preview, quality selector, and download history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
